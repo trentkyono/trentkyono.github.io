@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Maui, HI, USA"
   employer         : "The Boeing Co."
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=vJxuKwgAAAAJ"
   email            : "tmkyono@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
