@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics/Computer Science, Pepperdine University, 2008
+* M.S. in Computer Science (Artificial Intelligence Major), UCLA, 2010
+* Ph.D in Computer Science (Artificial Intelligence Major), UCLA, 2021 (expected)
 
 Work experience
 ======
