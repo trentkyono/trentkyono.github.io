@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mathematics/Computer Science, Pepperdine University, 2008
 * M.S. in Computer Science (Artificial Intelligence Major), UCLA, 2010
-* Ph.D in Computer Science (Artificial Intelligence Major), UCLA, 2021 (expected)
+* Ph.D. in Computer Science (Artificial Intelligence Major), UCLA, 2021 (expected)
 
 Work experience
 ======
@@ -29,12 +29,24 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient Languages (in decreasing order)
+  * Python
+  * C/C++
+  * Racket/Lisp derivatives
+  * Java
+  * SQL
+  * MATLAB
+* Machine learning packages
+  * Keras
+  * PyTorch
+  * TensorFlow
+  * Scikit Learn
+* Strengths
+  * Software engineering
+  * Requirement analysis
+  * Leadership
+  * Teamwork
+  * Public Speaking
 
 Publications
 ======
