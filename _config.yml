@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Trent Kyono"
-  avatar           : images/profile.png
+  avatar           : "profile.png"
   bio              : "Machine learning researcher and software engineer"
   location         : "Maui, HI, USA"
   employer         : "The Boeing Co."
